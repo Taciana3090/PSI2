@@ -1,0 +1,92 @@
+4 4
+0 A 0 0
+0 0 0 0
+0 0 0 C
+R B 0 0
+        r = A C B 
+        possui 3 pontos de entrega
+        possibilidades = 6
+        Tempo gasto: 0.00 segundos
+
+
+4 5 
+E 0 0 0 D
+0 A 0 0 0
+0 0 0 0 C
+R 0 B 0 0
+          r = E A D C B
+          possui 5 pontos de entrega
+          possibilidades = 120
+          Tempo gasto: 0.00 segundos
+
+	    
+
+6 7
+0 B 0 0 0 0 E
+0 0 0 0 0 0 0
+A 0 0 0 0 0 0
+0 0 0 0 C 0 D
+0 0 F 0 0 0 0
+0 0 0 0 G 0 R
+              r = D E B A F C G
+              possui 7 pontos de entrega
+              possibilidades = 5.040
+              Tempo gasto: 0.08 segundos
+
+
+5 6
+A 0 0 0 0 F
+0 J 0 0 0 R
+B 0 E 0 H 0
+I 0 G 0 0 0
+0 D 0 0 0 C
+            r = F A J B I D G E H C 
+            possui 10 pontos de entrega
+            possibilidades = 3.628.800
+            Tempo gasto: 76.96 segundos
+
+
+
+7 8
+0 0 0 0 E 0 0 F
+0 0 0 0 0 0 0 0
+0 0 C 0 0 0 0 0
+0 0 0 0 0 0 0 G
+D 0 0 0 0 0 R 0
+0 0 0 0 0 0 0 H
+0 A 0 0 0 B 0 0
+                r = G F E C D A B H
+                possui 8 pontos de entrega
+                possibilidades = 40.320
+                Tempo gasto: 0.66 segundos
+
+
+
+8 9
+0 0 0 0 J 0 0 0 0
+0 0 0 0 0 0 0 0 0
+E 0 D 0 0 0 0 C 0 
+0 0 0 0 F 0 0 0 0
+0 A 0 0 0 0 B 0 0
+0 0 0 G 0 0 0 0 0
+0 0 0 R 0 0 0 I 0
+H 0 0 0 0 0 0 0 0
+		          r = G F B I C J D E A H
+                  possui 10 pontos de entrega
+                  possibilidades = 3.628.800
+                  Tempo gasto: 70.37 segundos
+
+10 12
+A 0 0 0 0 0 0 0 D 0 0 0
+0 B 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 E 0 0 0 0 0 
+0 0 C 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 F 0 0 0 0 0 0
+0 0 0 0 0 0 0 G 0 0 0 0 
+0 0 0 H 0 0 0 0 0 0 0 L
+R 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 J 0
+0 0 0 0 0 0 I 0 0 0 0 0
+                      r = não foi possível obter uma solução devido a sua complexidade e baixo recursos de hardware.
+                      possui 12 pontos de entrega
+                      possibilidades = 479.001.600
