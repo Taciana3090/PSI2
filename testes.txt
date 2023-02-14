@@ -76,6 +76,24 @@ H 0 0 0 0 0 0 0 0
                   possibilidades = 3.628.800
                   Tempo gasto: 70.37 segundos
 
+
+10 12
+A 0 0 0 0 0 0 0 D 0 0 0
+0 B 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 E 0 0 0 0 0 
+0 0 C 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 F 0 0 0 0 0 0
+0 0 0 0 0 0 0 G 0 0 0 0 
+0 0 0 H 0 0 0 0 0 0 0 0
+R 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 J 0
+0 0 0 0 0 0 I 0 0 0 0 0
+                        r = A B C F E D G J I H 
+                        possui 11 pontos de entrega
+                        possibilidades = 399.168.00
+                        Tempo gasto = 68.60 segundos
+
+
 10 12
 A 0 0 0 0 0 0 0 D 0 0 0
 0 B 0 0 0 0 0 0 0 0 0 0 
@@ -90,3 +108,4 @@ R 0 0 0 0 0 0 0 0 0 0 0
                       r = não foi possível obter uma solução devido a sua complexidade e baixo recursos de hardware.
                       possui 12 pontos de entrega
                       possibilidades = 479.001.600
+
